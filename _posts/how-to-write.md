@@ -36,6 +36,14 @@ Front-matter 是文件最上方以 --- 分隔的区域，用于指定个别文�
 ##布局
 Hexo 有三种默认布局：post、page 和 draft，它们分别对应不同的路径，而您自定义的其他布局和 post 相同，都将储存到 source/_posts 文件夹。除了自带的三种默认布局以外 luocman 还有 photo 和 link 两种布局。
 
+##草稿
+刚刚提到了 Hexo 的一种特殊布局：draft，这种布局在建立时会被保存到 `source/_drafts` 文件夹，您可通过 publish 命令将草稿移动到 `source/_posts` 文件夹，该命令的使用方式与 new 十分类似，您也可在命令中指定 layout 来指定布局。
+
+```
+hexo publish [layout] <title>
+```
+
+草稿默认不会显示在页面中，您可在执行时加上 - -draft 参数，或是把 render_drafts 参数设为 true 来预览草稿。
 ##模板
 在新建文章时，Hexo 会根据 scaffolds 文件夹内相对应的文件来建立文件。所以每个人可以根据自己的使用习惯修改模板中的参数，我的模板参数如下：
 

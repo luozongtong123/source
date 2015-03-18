@@ -2,6 +2,7 @@
 layout: post
 title: 简单的 Git 入门
 date: 2015-2-13 22:31:00
+toc: true
 tags: 
 - 教程
 - 知识管理

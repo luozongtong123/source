@@ -1,6 +1,5 @@
 layout: post
 title: 使用 cloud9 重建 Hexo 博客写作环境
-toc: false
 date: 2015-03-14 16:33:52
 tags:
 - cloud9

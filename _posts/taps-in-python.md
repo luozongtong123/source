@@ -1,6 +1,5 @@
 layout: post
 title: "Python 中需要注意的点"
-toc: true
 date: 2015-03-27 19:39:49
 tags: 知识管理
 category: Python

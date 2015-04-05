@@ -1,6 +1,5 @@
 title: Hexo luocman 主题的文章书写规范
 date: 2015-02-28 13:51:42
-toc: false
 tags:
 - 知识管理
 - 教程

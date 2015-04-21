@@ -17,3 +17,7 @@ date: 2015-1-28 22:42:00
 ## Damn It
 
 竟然没有想说的。
+
+## Trivial
+
+[生活琐碎](http://luoluodafang.info/trivial)
